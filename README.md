@@ -42,7 +42,7 @@ It doesn’t have to be perfect, we are doing our best to complete our projects!
 
 ---
 
-![Japanese Wave Animation](https://pin.it/4Vg56L0yG.gif)
+![Japanese Wave Animation](./Samurai%20Champloo%20-%20Jin.gif)
 
 Let’s create more! Design the future and learn new things together! ❤️
 
