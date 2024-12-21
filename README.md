@@ -14,7 +14,7 @@ It doesn’t have to be perfect, we are doing our best to complete our projects!
 - ✨ I’m looking to collaborate on **innovative software tools to increase my productivity in software development**.
 - 📝 Thrilled to Learn about **Automation using various Languages**, **LLM prompts**, and **Productive Tools**.
 - 🚀 Fun Fact: I enjoy combining tech with art, which is why my designs often reflect a **Japanese aesthetic**!
-- 📺 Love to Watch Anime.
+- 💻 One of my Hobby is building custom PCs for optimal performance and aesthetics.
 
 ---
 
@@ -37,12 +37,12 @@ It doesn’t have to be perfect, we are doing our best to complete our projects!
 ### 📢 **Connect with Me**
 
 - ✉ Email: [helloitsmeabhinav2003@gmail.com](mailto:helloitsmeabhinav2003@gmail.com)
-- 🌐 Portfolio: [helloitsmeabhi.github.io](https://abhinavnaik-4df913.gitlab.io/)
+- 🌐 Portfolio: [helloitsmeabhi.github.io](https://github.com/helloitsmeabhi)
 - 👨‍💻 LinkedIn: [Abhinav’s Profile](https://www.linkedin.com/in/abhinav-naik-6520592b4/)
 
 ---
 
-![Japanese Wave Animation](https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif)
+![Japanese Wave Animation](https://pin.it/4Vg56L0yG.gif)
 
 Let’s create more! Design the future and learn new things together! ❤️
 
