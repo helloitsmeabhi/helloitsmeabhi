@@ -1,9 +1,9 @@
-## 👋こんにちは、私のプロフィールへようこそ！
+# 👋こんにちは、私のプロフィールへようこそ！
 
 ![Banner](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
 
-# **Abhinav's GitHub Profile**  
-そんなにつよくなくても大丈夫，僕たちは全力でプロジェクトを完成しています！
+# **Abhinav Naik**  
+It doesn’t have to be perfect, we are doing our best to complete our projects!
 
 ---
 
@@ -20,28 +20,29 @@
 
 ### 🔄 **Projects**
 
-| Project Name                                 | Description                                                                                       | Technologies Used                 |
-|---------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------|
-| **Programming Tools Installer**         | An Automated Programming tools Installation Software to Install Compiler IDE's and Code Editors.                                             | Electron-Forge, Python and JavaScript             |
-| **Open Source Content Viewer**                        | A Django Based Web application that allows us to view open source Educational Information                         | Django Framework,Python,HTML,CSS and Javascript(minimal)            |
+| Project Name                   | Description                                                                                   | Technologies Used                |
+|--------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------|
+| **Programming Tools Installer**| An Automated Programming tools Installation Software to Install Compiler IDE's and Code Editors.| Electron-Forge, Python and JavaScript |
+| **Open Source Content Viewer** | A Django Based Web application that allows us to view open source Educational Information.     | Django Framework, Python, HTML, CSS, and JavaScript (minimal) |
+
 ---
 
 ### ✨ **Skills**
 
-- **Programming Languages:** C++, Python, Java and C#
-- **Tools & Technologies:** Django, MySQL, Electron Forge, VSCode and Visual Studio
+- **Programming Languages:** C++, Python, Java, and C#
+- **Tools & Technologies:** Django, MySQL, Electron Forge, VSCode, and Visual Studio
 
 ---
 
 ### 📢 **Connect with Me**
 
-- ✉ Email: [helloitsmeabhi@example.com](mailto:helloitsmeabhinav2003@gmail.com)
-- 🌐 Portfolio: [helloitsmeabhi.github.io](https://github.com/helloitsmeabhi)
+- ✉ Email: [helloitsmeabhinav2003@gmail.com](mailto:helloitsmeabhinav2003@gmail.com)
+- 🌐 Portfolio: [helloitsmeabhi.github.io](https://abhinavnaik-4df913.gitlab.io/)
 - 👨‍💻 LinkedIn: [Abhinav’s Profile](https://www.linkedin.com/in/abhinav-naik-6520592b4/)
 
 ---
 
 ![Japanese Wave Animation](https://media.giphy.com/media/xTiTnuhyBF54B852nK/giphy.gif)
 
-おしっ！もっと工作しましょう。将来を設計し、一緒に新しいことを学ぼう！❤️
+Let’s create more! Design the future and learn new things together! ❤️
 
