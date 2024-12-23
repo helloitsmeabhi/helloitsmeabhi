@@ -3,7 +3,7 @@
 ![Banner](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
 
 # **Abhinav Naik**  
-
+Take Small Steps and Be Patient
 ---
 
 ### ⚡✨ **About Me** ✨⚡
