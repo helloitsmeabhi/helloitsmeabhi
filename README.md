@@ -3,7 +3,6 @@
 ![Banner](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
 
 # **Abhinav Naik**  
-It doesn’t have to be perfect, we are doing our best to complete our projects!
 
 ---
 
