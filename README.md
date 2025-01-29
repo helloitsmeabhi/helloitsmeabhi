@@ -22,7 +22,7 @@ Take Small Steps and Be Patient
 | Project Name                   | Description                                                                                   | Technologies Used                |
 |--------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------|
 | **Programming Tools Installer**| An Automated Programming tools Installation Software to Install Compiler IDE's and Code Editors.| Electron-Forge, Python and JavaScript |
-| **Open Source Content Viewer** | A Django Based Web application that allows us to view open source Educational Information.     | Django Framework, Python, HTML, CSS, and JavaScript (minimal) |
+| **Gen-Image** | A Django Based Web application that allows us to generate an Image based on prompt input.     | Django Framework, Python,Pollination AI API, HTML, CSS, and JavaScript (minimal) |
 
 ---
 
