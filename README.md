@@ -1,19 +1,18 @@
-# 👋Hello!!
-
-![Banner](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
-
+# 👋 Hello!!
+![Banner](./code.gif)
 # **Abhinav Naik**  
-Take Small Steps and Be Patient
+_Take Small Steps and Be Patient_
+
 ---
 
 ### ⚡✨ **About Me** ✨⚡
 
 - 🔧 I’m currently working on a **Desktop Application** to enhance Coding workflows.
-- 🌱 Exploring **C#** for Desktop Application development.
+- 🌱 Exploring **Django REST** for Backend development.
 - ✨ I’m looking to collaborate on **innovative software tools to increase my productivity in software development**.
 - 📝 Thrilled to Learn about **Automation using various Languages**, **LLM prompts**, and **Productive Tools**.
 - 🚀 Fun Fact: I enjoy combining tech with art, which is why my designs often reflect a **Japanese aesthetic**!
-- 💻 One of my Hobby is building custom PCs for optimal performance and aesthetics.
+- 💻 One of my hobbies is building custom PCs for optimal performance and aesthetics.
 
 ---
 
@@ -21,15 +20,15 @@ Take Small Steps and Be Patient
 
 | Project Name                   | Description                                                                                   | Technologies Used                |
 |--------------------------------|-----------------------------------------------------------------------------------------------|-----------------------------------|
-| **Programming Tools Installer**| An Automated Programming tools Installation Software to Install Compiler IDE's and Code Editors.| Electron-Forge, Python and JavaScript |
-| **Gen-Image** | A Django Based Web application that allows us to generate an Image based on prompt input.     | Django Framework, Python,Pollination AI API, HTML, CSS, and JavaScript (minimal) |
+| **Programming Tools Installer**| An Automated Programming tools Installation Software to Install Compiler IDE's and Code Editors.| Electron-Forge, Python, JavaScript |
+| **Gen-Image** | A Django Based Web application that allows us to generate an Image based on prompt input.     | Django Framework, Python, Pollination AI API, HTML, CSS, JavaScript (minimal) |
 
 ---
 
 ### ✨ **Skills**
 
-- **Programming Languages:** C++, Python, Java, and C#
-- **Tools & Technologies:** Django, MySQL, Electron Forge, VSCode, and Visual Studio
+- **Programming Languages:** C, C++, Python, Java, HTML and C#
+- **Tools & Technologies:** Django, MySQL, Electron Forge, VSCode, Visual Studio, Git, Docker and AutoCAD
 
 ---
 
@@ -41,7 +40,6 @@ Take Small Steps and Be Patient
 
 ---
 
-![Japanese Wave Animation](./Samurai%20Champloo%20-%20Jin.gif)
+![Backend](./backend.gif)
 
 Let’s create more! Design the future and learn new things together! ❤️
-
