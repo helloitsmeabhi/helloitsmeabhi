@@ -16,20 +16,12 @@
 - 🌟 Motto: Taking Small Steps and Being Patient
 
 ### 🚀 Featured Projects
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/-Featured-FF6B6B?style=flat-square"/> <strong>Programming Tools Installer</strong><br/>
-      <sub>🛠️ Streamlined dev environment setup<br/>
-      📚 Electron-Forge • Python • JavaScript</sub>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/-Latest-4CAF50?style=flat-square"/> <strong>Gen-Image</strong><br/>
-      <sub>🎨 AI-powered image generation platform<br/>
-      📚 Django • Pollination AI • Full-Stack</sub>
-    </td>
-  </tr>
-</table>
+## 🚀 Featured Projects 
+
+| Project | Description |
+|---------|-------------|
+| [**Programming Tools Installer**](https://github.com/helloitsmeabhi/programming-tools-installer) <br><br> ![Tech Stack](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) <br><br> [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helloitsmeabhi/programming-tools-installer) | **Development Environment Automation Tool** <br><br> A desktop application that streamlines the setup of development environments. Features include: <br><br> • Automated installation of compilers and IDEs <br> • Custom configuration management <br> • Cross-platform compatibility <br> • Dependency resolution |
+| [**Gen-Image**](https://github.com/helloitsmeabhi/gen-image) <br><br> ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white) <br><br> [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helloitsmeabhi/gen-image) [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/helloitsmeabhi/gen-image) | **AI-Powered Image Generation Platform** <br><br> A web application for generating images using AI. Key features: <br><br> • Text-to-image generation <br> • Integration with Pollination AI API <br> • User image gallery <br> • Custom generation parameters |
 
 ### 💻 Tech Arsenal
 <div align="center">
