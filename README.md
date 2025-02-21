@@ -4,13 +4,13 @@
 # 🌟 Abhinav Naik
 #### _Crafting Digital Excellence_
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FD1&center=true&vCenter=true&width=435&lines=Develop's+API;Automate+Process;Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FD1&center=true&vCenter=true&width=435&lines=Develop's+Django+Backend;Automate+Process;Tech+Explorer)](https://git.io/typing-svg)
 </div>
 
 ---
 ### 💫 About Me
 - 🔭 Currently working on: Desktop App for Dev Workflows
-- 📚 Learning: Django REST, System Architecture, LLM Engineering
+- 📚 Learning: Django , System Architecture, LLM Engineering
 - ❤️ Passionate about: Automation, Japanese Design, Custom PC Building
 - 👥 Looking for: Collaborators on Innovative Dev Tools
 - 🌟 Motto: Taking Small Steps and Being Patient
