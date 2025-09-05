@@ -34,7 +34,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helloitsmeabhinav2003@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helloitsmeabhi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://helloitsmeabhi.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-naik-6520592b4/)
 
 </div>
