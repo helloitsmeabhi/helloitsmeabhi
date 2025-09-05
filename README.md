@@ -4,15 +4,13 @@
 # 🌟 Abhinav Naik
 #### _Crafting Digital Excellence_
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FD1&center=true&vCenter=true&width=435&lines=Develop's+Django+Backend;Automate+Process;Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FD1&center=true&vCenter=true&width=435&lines=Automate+Process;SQL;Core+Java;Google+AI+Studio;Git;Tech+Explorer)](https://git.io/typing-svg)
 </div>
 
 ---
 ### 💫 About Me
-- 🔭 Currently working on: Desktop App for Dev Workflows
-- 📚 Learning: Django , System Architecture, LLM Engineering
-- ❤️ Passionate about: Automation, Japanese Design, Custom PC Building
-- 👥 Looking for: Collaborators on Innovative Dev Tools
+- 🔭 Currently working on: Automation of data workflows
+- 📚 Learning: Understanding how to organize data
 - 🌟 Motto: Taking Small Steps and Being Patient
 
 ### 🚀 Featured Projects
@@ -26,12 +24,9 @@
 ### 💻 Tech Arsenal
 <div align="center">
 
-![Core Languages](https://skillicons.dev/icons?i=c,cpp,python,java,html,cs)
+![Core Languages](https://skillicons.dev/icons?i=c,cpp,java,html)
 
-<img src="./django.png" alt="Django" width="150" style="margin: 20px 0">
-
-![Tools & Technologies](https://skillicons.dev/icons?i=django,mysql,electron,vscode,visualstudio,git,docker)
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Tools & Technologies](https://skillicons.dev/icons?i=django,mysql,vscode,visualstudio,git)
 
 </div>
 
